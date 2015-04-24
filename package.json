@@ -1,0 +1,25 @@
+{
+  "name": "iterable-stream",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deanlandolt/iterable-stream.git"
+  },
+  "keywords": [
+    "iterable",
+    "stream",
+    "iteration",
+    "lazy"
+  ],
+  "author": "Dean Landolt <dean@deanlandolt.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deanlandolt/iterable-stream/issues"
+  },
+  "homepage": "https://github.com/deanlandolt/iterable-stream"
+}
